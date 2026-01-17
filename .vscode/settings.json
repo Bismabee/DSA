@@ -1,0 +1,14 @@
+{
+    "[cpp]": {
+        "editor.suggest.enabled": false,
+        "editor.quickSuggestions": {
+            "other": false,
+            "comments": false,
+            "strings": false
+        }
+    },
+    "C_Cpp.IntelliSense.disabled": true,
+    "github.copilot.enable": {
+        "cpp": false
+    }
+}
